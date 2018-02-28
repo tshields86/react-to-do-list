@@ -1,0 +1,14 @@
+.ListItem {
+  width: 100%;
+  padding: 5px;
+  border-bottom: 1px solid #BFBFBF;
+  list-style-type: none;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ListItem:last-of-type {
+  border-bottom: none;
+}

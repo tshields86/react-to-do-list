@@ -1,0 +1,11 @@
+.Input {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.Input input {
+  flex-grow: 1;
+  padding: 5px;
+  font-size: 18px;
+}

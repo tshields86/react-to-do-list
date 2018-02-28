@@ -1,0 +1,11 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+.ActiveList {
+  background-color: #ADD8E6;
+}
+.CompletedList {
+  background-color: #CCC;
+  text-decoration: line-through;
+}

@@ -1,0 +1,21 @@
+.Button {
+  color: white;
+}
+.Button:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+.Button i {
+  padding: 5px;
+}
+.Submit {
+  background-color: #4682B4;
+}
+.Delete {
+  background-color: #FF1919;
+  margin: 0 5px;
+}
+.Complete {
+  background-color: #329932;
+  margin: 0 5px;
+}
